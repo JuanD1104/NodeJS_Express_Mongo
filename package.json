@@ -1,0 +1,22 @@
+{
+  "name": "nodejslab01",
+  "version": "1.0.0",
+  "description": "Server Web Usando Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanD1104/NodeJS_Express_Mongo.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Juan Ibañez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanD1104/NodeJS_Express_Mongo/issues"
+  },
+  "homepage": "https://github.com/JuanD1104/NodeJS_Express_Mongo#readme"
+}
